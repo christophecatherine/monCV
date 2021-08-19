@@ -1,0 +1,20 @@
+Référencement :
+-balise meta description 
+A voir :
+-SEO/SEA/SMO
+W3C si notre site correspond aux standards excistant
+https://validator.w3.org
+ajouter les différentes pages dans l'onglet "validate by file upload" et checker
+
+Site mon CV
+HTLM/CSS/RESPONSIE/JAVASCRIPT/MEDIA QUERIES/XAMPP/APACHE/PHP
+
+Installer vim 
+
+Lancer lampp : sudo /opt/lampp/lampp start 
+pour aide : sudo /opt/lampp/lampp help 
+pour la securite : sudo /opt/lampp/lampp security
+pour config lampp : /opt/lampp/etc sudo vim http.conf (changer la "DocumentRoot" vers la route du dossier idem pour la "Dyrectory")
+relancer apache : /opt/lampp/etc sudo sudo /opt/lampp/lampp reloadapache
+lancer le dossier sur localhost a l'endroit du dossier 
+
