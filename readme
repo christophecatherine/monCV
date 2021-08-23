@@ -14,7 +14,7 @@ Installer vim
 Lancer lampp : sudo /opt/lampp/lampp start 
 pour aide : sudo /opt/lampp/lampp help 
 pour la securite : sudo /opt/lampp/lampp security
-pour config lampp : /opt/lampp/etc sudo vim http.conf (changer la "DocumentRoot" vers la route du dossier idem pour la "Dyrectory")
-relancer apache : /opt/lampp/etc sudo sudo /opt/lampp/lampp reloadapache
+pour config lampp : /opt/lampp/etc sudo vim httpd.conf (changer la "DocumentRoot" vers la route du dossier idem pour la "Dyrectory")
+relancer apache : /opt/lampp/etc sudo /opt/lampp/lampp reloadapache
 lancer le dossier sur localhost a l'endroit du dossier 
 

@@ -25,28 +25,28 @@ include("Common/hearder.php")
             </tr>
             <tr>
                 <td>Programmation Web</td>
-                <td>PHP, HTML, CSS, JavaScript, MySQL</td>
-                <td>Expérimenté</td>
+                <td>HTML, CSS, Bootstarp, JavaScript, jQuery, Express.js, Node.js, MongoDB, PHP, MySQL, Workbench, XAMPP</td>
+                <td>Intermédiaire</td>
             </tr>
             <tr>
-                <td>Communication</td>
-                <td>Animation de réunion, formation, enseignement</td>
-                <td>Avancé</td>
+                <td>Linux, Windows</td>
+                <td>Shell, Bash</td>
+                <td>Intermédiaire</td>
             </tr>
             <tr>
                 <td colspan="2">Anglais</td>
-                <td>Courant</td>
+                <td>Intermédiaire</td>
+            </tr>
+            <tr>
+                <td colspan="2">Espagnole</td>
+                <td>Intermédiaire</td>
             </tr>
         </table>
 
     </div>
     <h2 class="colorBlueDark size40 borderBottomDark">Formation</h2>
     <div>
-        8/2012 : Master informatique MIAGE (méthodes informatiques appliquées à la gestion des entreprises) <br/> 08/2009 : DUT Informatique de Limoge
-    </div>
-    <h2 class="colorBlueDark size40 borderBottomDark">Activités personnelles</h2>
-    <div>
-        2019 : Réalisation de tutoriels sur plateforme Udemy <br/> 2018 : Engagé dans l'association de protection animale N.A.N.A et réalisation du site internet
+        10/2020 - 04/2021 : Formation Développeur web / web mobile 
     </div>
 </div>
 

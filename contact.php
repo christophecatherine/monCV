@@ -6,7 +6,7 @@ include("Common/hearder.php")
 
 <!-- Corps du site -->
 <div class="corps size20 ">
-    <h2 class="size40 borderBottomDark">In'Tech Sud</h2>
+    <h2 class="size40 borderBottomDark">Information</h2>
     <div>
         Téléphone : 06.50.87.54.78 <br /> Mail : 1christophecatherine@gmail.com
     </div>
